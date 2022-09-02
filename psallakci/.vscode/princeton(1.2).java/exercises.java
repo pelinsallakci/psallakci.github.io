@@ -12,7 +12,10 @@ public class exercises {
         // so a == b
 
         // 5th question:
-        //
+        // false ^ false = false
+        // true ^ true = false
+        // false ^ true = true
+        // true ^ false = true
 
         // 6th question:
         // 10/3 gives 3 and not 3.33333333
@@ -27,8 +30,8 @@ public class exercises {
         // e. bc23 : since there are no parentheseses.
 
         // 8th question:
-        // in order to find the square root of a number by using Quadratic.java
-        // we should find the roots of
+        // in order to find the square root of a number c
+        // we should find the roots of (x*x) + 0*x - c.
 
         // 16th question:
         // the problem is G * mass1 * mass2 will be divided by r insted of (r * r)
