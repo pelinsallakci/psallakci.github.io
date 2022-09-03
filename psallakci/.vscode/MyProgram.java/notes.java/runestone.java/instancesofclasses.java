@@ -1,4 +1,4 @@
-public class runestoneunit2 {
+public class instancesofclasses {
     public static void main(String[] args) {
 
         // A java class is a blueprint for an Object
