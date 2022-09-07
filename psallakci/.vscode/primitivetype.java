@@ -1,5 +1,3 @@
-package.vscode;
-
 public class primitivetype {
    // There are 2 types in java: Pirmitive and Reference Types
    // difference between int and Integer: 
