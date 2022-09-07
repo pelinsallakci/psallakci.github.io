@@ -1,0 +1,13 @@
+Student Profile --> Class Name
+Properties:
+- Name
+- Surname
+- Class number
+- Class Teacher
+- Courses 
+- Mail
+- Homework
+Behaviors: 
+- setCourse()
+- homeworkCompleted()
+- displayTeacher()
