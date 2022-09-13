@@ -12,9 +12,9 @@ public class excard3 {
         // the error could be resolved by initializing a value to the variables number1
         // and number2.
 
-        String number4 = new String();
+        String number4 = new String(); // gives error if number4 is not used.
         System.out.println(number4);
-
-        //
+        // doesn't give a error.
+        // it doesn't print anything.
     }
 }
